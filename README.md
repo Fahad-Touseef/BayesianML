@@ -1,1 +1,1 @@
-# BayesianML
+# Bayesian Machine Learning for Marketing
