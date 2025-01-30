@@ -1,6 +1,7 @@
-# MKT779: Bayesian Machine Learning for Marketing (Spring 2025)
+# MKT779: Bayesian Machine Learning for Marketing
 
-Course taught by Professor Remi Daviet.
+Course taught by Professor Remi Daviet in Spring 2025.
 
-Here is the order of the activities/cases:
-1. Bayesian Regression
+Below is the order of the activities/cases:
+1. [Bayesian Regression](https://github.com/Fahad-Touseef/BayesianML/blob/main/bayesian_regression.ipynb)
+2. Media Exposure Patterns
